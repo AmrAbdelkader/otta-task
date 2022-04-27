@@ -1,5 +1,5 @@
 export interface SimilarityScore {
-    user1_id?: number;
-    user2_id?: number;
+    peer1_id?: number;
+    peer2_id?: number;
     score: number;
 }

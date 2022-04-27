@@ -17,7 +17,7 @@ class CSVParser {
                         job_id: Number(data.job_id),
                         company_id: Number(data.company_id),
                     }
-                    jobsData.push(parsedData)
+                    jobsData.push(parsedData);
                 })
                 .on('end', () => resolve(jobsData));
             }catch(err){
@@ -39,7 +39,7 @@ class CSVParser {
                         direction: JSON.parse(data.direction),
                         time: data.time
                     }
-                    reactionsData.push(parsedReaction)
+                    reactionsData.push(parsedReaction);
                 })
                 .on('end', () => resolve(reactionsData));
             }catch(err){
