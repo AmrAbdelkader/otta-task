@@ -25,7 +25,7 @@ The reaction data consists of four columns:
 
 **Task**: The similarity score between two users is the number of jobs which they both like. Find the two users with the highest similarity.
 
-**Answer**: user1: 1791 and user2: 5193 with score: 405
+**Answer**: user1: `1791` and user2: `5193` with score: `405`
 
 ### Task 2
 
@@ -33,7 +33,7 @@ In the `data` folder there is an additional CSV file called `jobs.csv`. It conta
 
 **Task**: The similarity score between two companies is the number of users who like at least one job at both companies. Using both the `reactions.csv` and `jobs.csv` data, find the two companies with the highest similarity score.
 
-**Answer**: Company1: 124 and Company2: 46 with score 362
+**Answer**: Company1: `124` and Company2: `46` with score `362`
 
 ### Task 3
 
@@ -47,11 +47,11 @@ We don't think it's fair to ask you to build something with a UI, as we know thi
 - If the best example of your work is something you've done at a company, it's okay to link to a live deployed version
 - If you can't link to anything, a screenshot is also fine
 
-**Answer**: _[Add a link to repo/website/screenshot here]_
+**Answer**: Here is a link to a couple of screen shot of a side-project mobile App, that I have been building https://drive.google.com/drive/u/0/folders/19DW_YrAPaPKyJfug01qZ6Wpz8x7eG6SP
 
 **Task**: Tell us about the biggest challenge you faced in building the above.
 
-**Answer**: _[Write your answer here (300 words max)]_
+**Answer**: Biggest challange was to try to adjust the view to be working on different screen sizes, and make it properly responsive on different screen sizes like on iPhone6 and iphone x or iphone 13 as well as ipad with its different versions and screen sizes, also another challange was to choose what is the best UX the fits with the business idea of the app and its branding.
 
 ## Submission
 
